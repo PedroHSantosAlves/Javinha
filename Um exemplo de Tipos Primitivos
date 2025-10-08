@@ -1,0 +1,20 @@
+public class Aula02TiposPrimitivos {
+    public static void main(String[] args) {
+        int age = 10;
+        long numeroGrande = (int) 10000000000L;
+        double salarioDouble = 2000.0D;
+        float salrioFloat = (long) 155.23;
+        byte idadeByte = 127;
+        short idadeShort = 32000;
+        boolean verdadeiro = true;
+        boolean falso = false;
+        char caractere = '\u0041';
+        String nome = "Jotaro Kujo";
+
+        System.out.println("A idade é " + age + " anos");
+        System.out.println(verdadeiro);
+        System.out.println("char"+caractere);
+        System.out.println(numeroGrande);
+        System.out.println("Yare Yare Daze... eu sou " + nome);
+    }
+}
