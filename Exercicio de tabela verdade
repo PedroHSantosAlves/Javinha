@@ -1,0 +1,18 @@
+public class Aula05EstruturasCondicionais04 {
+    public static void main(String[] args) {
+        double salarioanual = 45000;
+        double primeriafaixa = 9.70 / 100;
+        double segundafaixa = 37.35 / 100;
+        double terceirafaixa = 49.50 / 100;
+        double valorImposto;
+
+        if(salarioanual <= 34712){
+            salarioanual = salarioanual * primeriafaixa;
+        } else if(salarioanual >= 34713 && salarioanual <= 68507){
+            salarioanual = salarioanual * segundafaixa;
+        } else{
+            salarioanual = salarioanual * terceirafaixa;
+        }
+        System.out.println(salarioanual);
+    }
+}
