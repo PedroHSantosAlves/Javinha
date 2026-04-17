@@ -18,5 +18,3 @@ Tudo feito enquanto sigo o curso do Dev Dojo e a faculdade de Análise e Desenvo
 **Em constante atualização**  
 Quanto mais eu estudo, mais coisa vai aparecer aqui.  
 
-Se quiser dar uma olhada, ficar à vontade!  
-Qualquer dúvida ou sugestão é só chamar. 💻
